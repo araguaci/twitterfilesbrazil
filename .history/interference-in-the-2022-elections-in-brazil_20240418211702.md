@@ -292,20 +292,8 @@ __
 
 To complete and close with a golden key, in this podcast released today by the Globo de Comunicação group, Estela Aranha criminalizes without evidence and evidence, the speech of opponents about the Lulista regime and as well as accuses Elon Musk of not complying with Brazilian legislation.__
 
----
+• • •
 
-## More sources: 
-
-  - [twitter-files-brasil-e-mails-mostram-que-busca-do-tse-por-dados-privados-tambem-afetou-personalidades-da-esquerda](https://www.gazetadopovo.com.br/ideias/twitter-files-brasil-e-mails-mostram-que-busca-do-tse-por-dados-privados-tambem-afetou-personalidades-da-esquerda/)
-  - [twitterfilesbrazil2](./README.md)
-  - [twitterfilesbrazil3](./twitterfilesbrazil3.md)
-  - [#TwitterFilesBrazil](https://twitter.com/hashtag/TwitterFilesBrazil?src=hashtag_click)
-  - [Twitter Files Brasil 2 - O influenciador usa de sua influência](https://twitter.com/EliVieiraJr/status/1778175188678369703)
-  - [Executivo tentou promover encontro entre Felipe Neto e chefe de segurança](https://www.gazetadopovo.com.br/ideias/twitter-files-brasil-executivo-tentou-promover-encontro-entre-felipe-neto-e-chefe-de-seguranca/)
-  - [O governo brasileiro quer censurar as teorias da conspiração e ainda assim aqui está, espalhando teorias da conspiração](https://twitter.com/shellenberger/status/1777793959571411365)
-  - [“Foi a gota d’água”, diz Musk sobre ordens de Moraes envolvendo o Twitter](https://www.gazetadopovo.com.br/mundo/foi-a-gota-dagua-diz-musk-sobre-ordens-de-moraes-envolvendo-o-twitter/)
-  - [‘Atropelo constitucional’ pode anular inquéritos de Moraes, dizem advogados](https://agoranoticiasbrasil.com.br/2024/02/atropelo-constitucional-pode-anular-inqueritos-de-moraes-dizem-advogados/)
-  - [Le Brésil au bord de la dictature après les demandes abusives du juge Moraes](https://twitter.com/france_soir/status/1778394075692978343)
-  - ["Twitter Files - Brazil" expõe censura e "repressão abrangente" nas redes | DDF EXTRA](https://www.youtube.com/watch?v=IUDttlpxLCw)
+Missing some Tweet in this thread? You can try to [force a refresh](#)
 
 　
