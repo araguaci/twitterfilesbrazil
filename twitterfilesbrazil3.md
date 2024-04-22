@@ -179,7 +179,19 @@ Instead of respecting the Marco Civil da Internet and the LGPD, the Brazilian go
 
 For a different organization of the information above and replies from two people who the TSE thought created the hashtag for the vote printouts, consider reading my piece at @gazetadopovo:
 
-[gazetadopovo.com.br/ideias/twitter…](https://www.gazetadopovo.com.br/ideias/twitter-files-brasil-e-mails-mostram-que-busca-do-tse-por-dados-privados-tambem-afetou-personalidades-da-esquerda/)__
+## More sources: 
+
+  - [twitter-files-brasil-e-mails-mostram-que-busca-do-tse-por-dados-privados-tambem-afetou-personalidades-da-esquerda](https://www.gazetadopovo.com.br/ideias/twitter-files-brasil-e-mails-mostram-que-busca-do-tse-por-dados-privados-tambem-afetou-personalidades-da-esquerda/)
+  - [twitterfilesbrazil2](./README.md)
+  - [#TwitterFilesBrazil](https://twitter.com/hashtag/TwitterFilesBrazil?src=hashtag_click)
+  - [interference-in-the-2022-elections-in-brazil](./interference-in-the-2022-elections-in-brazil.md)
+  - [Twitter Files Brasil 2 - O influenciador usa de sua influência](https://twitter.com/EliVieiraJr/status/1778175188678369703)
+  - [Executivo tentou promover encontro entre Felipe Neto e chefe de segurança](https://www.gazetadopovo.com.br/ideias/twitter-files-brasil-executivo-tentou-promover-encontro-entre-felipe-neto-e-chefe-de-seguranca/)
+  - [O governo brasileiro quer censurar as teorias da conspiração e ainda assim aqui está, espalhando teorias da conspiração](https://twitter.com/shellenberger/status/1777793959571411365)
+  - [“Foi a gota d’água”, diz Musk sobre ordens de Moraes envolvendo o Twitter](https://www.gazetadopovo.com.br/mundo/foi-a-gota-dagua-diz-musk-sobre-ordens-de-moraes-envolvendo-o-twitter/)
+  - [‘Atropelo constitucional’ pode anular inquéritos de Moraes, dizem advogados](https://agoranoticiasbrasil.com.br/2024/02/atropelo-constitucional-pode-anular-inqueritos-de-moraes-dizem-advogados/)
+  - [Le Brésil au bord de la dictature après les demandes abusives du juge Moraes](https://twitter.com/france_soir/status/1778394075692978343)
+  - ["Twitter Files - Brazil" expõe censura e "repressão abrangente" nas redes | DDF EXTRA](https://www.youtube.com/watch?v=IUDttlpxLCw)
 
  
 　
