@@ -346,6 +346,8 @@ More subtle forms of internet censorship are also addressed. The government is b
 ## More sources: 
 
   - [#TwitterFilesBrazil](https://twitter.com/hashtag/TwitterFilesBrazil?src=hashtag_click)
+  - [twitterfilesbrazil3](./twitterfilesbrazil3.md)
+  - [interference-in-the-2022-elections-in-brazil](./interference-in-the-2022-elections-in-brazil.md)
   - [Twitter Files Brasil 2 - O influenciador usa de sua influência](https://twitter.com/EliVieiraJr/status/1778175188678369703)
   - [Executivo tentou promover encontro entre Felipe Neto e chefe de segurança](https://www.gazetadopovo.com.br/ideias/twitter-files-brasil-executivo-tentou-promover-encontro-entre-felipe-neto-e-chefe-de-seguranca/)
   - [O governo brasileiro quer censurar as teorias da conspiração e ainda assim aqui está, espalhando teorias da conspiração](https://twitter.com/shellenberger/status/1777793959571411365)
