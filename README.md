@@ -356,4 +356,5 @@ More subtle forms of internet censorship are also addressed. The government is b
   - [‘Atropelo constitucional’ pode anular inquéritos de Moraes, dizem advogados](https://agoranoticiasbrasil.com.br/2024/02/atropelo-constitucional-pode-anular-inqueritos-de-moraes-dizem-advogados/)
   - [Le Brésil au bord de la dictature après les demandes abusives du juge Moraes](https://twitter.com/france_soir/status/1778394075692978343)
   - ["Twitter Files - Brazil" expõe censura e "repressão abrangente" nas redes | DDF EXTRA](https://www.youtube.com/watch?v=IUDttlpxLCw)
+  - [um-guia-sobre-a-censura-e-a-perseguicao-contra-a-direita-no-judiciario-brasileiro](https://www.gazetadopovo.com.br/vida-e-cidadania/um-guia-sobre-a-censura-e-a-perseguicao-contra-a-direita-no-judiciario-brasileiro/)
   
