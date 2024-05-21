@@ -3,8 +3,7 @@
 By Leonardo Desideri
 
 O Sua Leitura indica o quanto você está informado sobre um determinado assunto de acordo com a profundidade e contextualização dos conteúdos que você lê. Nosso time de editores credita 20, 40, 60, 80 ou 100 pontos a cada conteúdo – aqueles que mais ajudam na compreensão do momento do país recebem mais pontos. Ao longo do tempo, essa pontuação vai sendo reduzida, já que conteúdos mais novos tendem a ser também mais relevantes na compreensão do noticiário. Assim, a sua pontuação nesse sistema é dinâmica: aumenta quando você lê e diminui quando você deixa de se informar. Neste momento a pontuação está sendo feita somente em conteúdos relacionados ao governo federal.
-
-[Fechar](#)
+ 
 
 A matéria que você está lendo agora__+0__
 
